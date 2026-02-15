@@ -50,7 +50,7 @@
 ---
 
 <div align="center">
-  <img src="header_connect.svg" width="100%" alt="Connect" />
+  <img src="header_connect_logo.svg" width="100%" alt="Connect Logo" />
 </div>
 
 <p align="center">
