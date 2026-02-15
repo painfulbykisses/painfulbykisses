@@ -9,8 +9,6 @@
 
 ---
 
-### 💿 NOW PLAYING: [AstroHijri Pro](https://github.com/painfulbykisses/AstroHijri-Pro)
-
 <p align="center">
   <a href="https://github.com/painfulbykisses/AstroHijri-Pro">
     <img src="https://img.shields.io/badge/AstroHijri_Pro-Launch-0047AB?style=for-the-badge&logo=rocket&logoColor=white" />
