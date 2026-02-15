@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/AstroHijri_Pro-Launch-0047AB?style=for-the-badge&logo=rocket&logoColor=white" />
   </a>
   <br>
-  <img src="https://github.com/painfulbykisses/AstroHijri-Pro/blob/main/image_12.png?raw=true" width="600" style="border-radius: 15px; border: 2px solid #0047AB;" />
+  <img src="https://github.com/painfulbykisses/AstroHijri-Pro/blob/main/logo_astrohijri.png?raw=true" width="600" style="border-radius: 15px; border: 2px solid #0047AB;" />
 </p>
 
 ---
