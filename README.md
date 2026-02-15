@@ -73,7 +73,7 @@
 </p>
 
 <p align="center">
-  <small>★ Designed with Y2K Aesthetic by @painfulbykisses ★</small>
+  <small>★ @painfulbykisses ★</small>
 </p>
 
 </div>
