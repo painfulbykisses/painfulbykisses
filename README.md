@@ -21,38 +21,50 @@
 
 ---
 
-### 🛠️ TECH STACK
+
+---
+
+<div align="center">
+  <img src="header_tech.svg" width="100%" alt="Tech Stack" />
+</div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-0047AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-FFFFFF?style=flat-square&logo=javascript&logoColor=black&labelColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-0047AB?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-FFFFFF?style=flat-square&logo=css3&logoColor=0047AB&labelColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-0047AB?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-FFFFFF?style=flat-square&logo=flask&logoColor=black&labelColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-0047AB?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white&labelColor=111111" />
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white&labelColor=111111" />
+  <img src="https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwind-css&logoColor=white&labelColor=111111" />
+  <img src="https://img.shields.io/badge/Flask-111111?style=flat-square&logo=flask&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/NumPy-000000?style=flat-square&logo=numpy&logoColor=white&labelColor=111111" />
 </p>
 
 ---
 
-### 📊 STATS & STREAKS
+<div align="center">
+  <img src="header_stats.svg" width="100%" alt="Stats & Streaks" />
+</div>
 
 <div align="center">
-  <!-- GitHub Stats: Tokyonight-duo theme is close to blue/purple vibe -->
-  <img src="https://github-readme-stats.vercel.app/api?username=painfulbykisses&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0047AB&title_color=fff&text_color=fff&icon_color=fff" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=painfulbykisses&layout=compact&theme=tokyonight&hide_border=true&bg_color=0047AB&title_color=fff&text_color=fff" height="150" alt="languages graph" />
+  <!-- GitHub Stats: Monochrome High Contrast -->
+  <img src="https://github-readme-stats.vercel.app/api?username=painfulbykisses&show_icons=true&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&border_color=333333&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=painfulbykisses&layout=compact&bg_color=000000&title_color=ffffff&text_color=cccccc&border_color=333333&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 <br>
 
 <div align="center">
-  <!-- Snake Game -->
-  <img src="https://raw.githubusercontent.com/painfulbykisses/painfulbykisses/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <!-- Snake Game (Requires GitHub Action to Run) -->
+  <a href="https://github.com/painfulbykisses/painfulbykisses/actions/workflows/snake.yml">
+    <img src="https://raw.githubusercontent.com/painfulbykisses/painfulbykisses/output/github-contribution-grid-snake.svg" alt="snake animation waiting to generate" />
+  </a>
+  <p><small><i>* Snake animation updates every 6 hours. If broken, the workflow is generating.</i></small></p>
 </div>
 
 ---
 
-### 👾 CONNECT
+<div align="center">
+  <img src="header_connect.svg" width="100%" alt="Connect" />
+</div>
 
 <p align="center">
   <a href="https://linkedin.com/in/muhammaddzikri17" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0047AB?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
