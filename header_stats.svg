@@ -9,9 +9,10 @@
         </filter>
         <style>
             .header-text {
-                font-family: 'Verdana', sans-serif;
+                font-family: 'Futura', 'Century Gothic', 'Tw Cen MT', sans-serif;
                 font-size: 40px;
                 font-weight: 900;
+                font-style: italic;
                 fill: #FFFFFF;
                 stroke: #CCCCCC;
                 stroke-width: 1px;
@@ -32,7 +33,7 @@
     </defs>
     
     <!-- Text -->
-    <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" class="header-text">Stats & Streaks</text>
+    <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" class="header-text">Stats &amp; Streaks</text>
     
     <!-- Animated Underline -->
     <line x1="100" y1="70" x2="500" y2="70" class="underline" />

@@ -19,9 +19,10 @@ def generate_section_svg(text, filename):
         </filter>
         <style>
             .header-text {{
-                font-family: 'Verdana', sans-serif;
+                font-family: 'Futura', 'Century Gothic', 'Tw Cen MT', sans-serif;
                 font-size: 40px;
                 font-weight: 900;
+                font-style: italic;
                 fill: {fg_color};
                 stroke: {accent_color};
                 stroke-width: 1px;
@@ -63,5 +64,5 @@ def generate_section_svg(text, filename):
 
 if __name__ == "__main__":
     generate_section_svg("Tech Stack", "header_tech.svg")
-    generate_section_svg("Stats & Streaks", "header_stats.svg")
+    generate_section_svg("Stats &amp; Streaks", "header_stats.svg")
     generate_section_svg("Connect", "header_connect.svg")
