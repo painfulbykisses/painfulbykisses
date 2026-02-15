@@ -9,18 +9,7 @@
 
 ---
 
-<p align="center">
-  <a href="https://github.com/painfulbykisses/AstroHijri-Pro">
-    <img src="https://img.shields.io/badge/AstroHijri_Pro-Launch-0047AB?style=for-the-badge&logo=rocket&logoColor=white" />
-  </a>
-  <br>
-  <img src="https://github.com/painfulbykisses/AstroHijri-Pro/blob/main/logo_astrohijri.png?raw=true" width="600" style="border-radius: 15px; border: 2px solid #0047AB;" />
-</p>
 
----
-
-
----
 
 <div align="center">
   <img src="header_tech.svg" width="100%" alt="Tech Stack" />
