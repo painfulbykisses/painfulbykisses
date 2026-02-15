@@ -1,0 +1,83 @@
+
+import math
+
+def generate_svg():
+    width = 800
+    height = 300
+    
+    # New Jeans Blue Palette
+    bg_color = "#0047AB"  # Deep Royal Blue
+    fg_color = "#FFFFFF"  # White
+    accent_color = "#A7C7E7" # Light Blue
+    
+    svg_content = f'''<svg width="{width}" height="{height}" xmlns="http://www.w3.org/2000/svg" style="background-color: {bg_color}; font-family: 'Verdana', sans-serif;">
+    <defs>
+        <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+            <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+            <feMerge>
+                <feMergeNode in="coloredBlur"/>
+                <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+        </filter>
+        <style>
+            .retro-text {{
+                font-size: 80px;
+                font-weight: 900;
+                fill: {fg_color};
+                stroke: {accent_color};
+                stroke-width: 2px;
+                filter: url(#glow);
+            }}
+            .sub-text {{
+                font-size: 24px;
+                font-weight: bold;
+                fill: {accent_color};
+                letter-spacing: 4px;
+                text-transform: uppercase;
+            }}
+            .star {{
+                fill: {fg_color};
+                animation: twinkle 2s infinite alternate;
+            }}
+            @keyframes twinkle {{
+                0% {{ opacity: 0.5; transform: scale(0.8); }}
+                100% {{ opacity: 1; transform: scale(1.2); }}
+            }}
+        </style>
+    </defs>
+    
+    <!-- Background Elements (Abstract Shapes) -->
+    <circle cx="100" cy="50" r="80" fill="#003380" opacity="0.5" />
+    <circle cx="700" cy="250" r="100" fill="#003380" opacity="0.5" />
+    <path d="M0,280 Q400,200 800,280 L800,300 L0,300 Z" fill="#002266" />
+    
+    <!-- Stars -->
+    <path class="star" d="M50,50 L55,65 L70,70 L55,75 L50,90 L45,75 L30,70 L45,65 Z" transform="translate(20,20)" />
+    <path class="star" d="M750,50 L755,65 L770,70 L755,75 L750,90 L745,75 L730,70 L745,65 Z" transform="translate(-20,20)" style="animation-delay: 0.5s"/>
+    <path class="star" d="M150,250 L155,265 L170,270 L155,275 L150,290 L145,275 L130,270 L145,265 Z" transform="scale(0.7)" style="animation-delay: 1s"/>
+
+    <!-- Main Text: Muhammad Dzikri -->
+    <text x="50%" y="45%" text-anchor="middle" dominant-baseline="middle" class="retro-text">Muhammad</text>
+    <text x="50%" y="75%" text-anchor="middle" dominant-baseline="middle" class="retro-text">Dzikri</text>
+    
+    <!-- Subtitle -->
+    <text x="50%" y="90%" text-anchor="middle" class="sub-text">Computational Physics</text>
+    
+    <!-- Decorative Bunny (Pixel Art Style simplified) -->
+    <!-- Two ears -->
+    <path d="M680,180 Q670,140 690,140 Q710,140 700,180" fill="{fg_color}" stroke="{bg_color}" stroke-width="2"/>
+    <path d="M710,180 Q720,140 700,140 Q680,140 690,180" fill="{fg_color}" stroke="{bg_color}" stroke-width="2"/>
+    <!-- Head -->
+    <circle cx="695" cy="190" r="15" fill="{fg_color}" />
+    <!-- Eyes -->
+    <circle cx="690" cy="188" r="2" fill="{bg_color}" />
+    <circle cx="700" cy="188" r="2" fill="{bg_color}" />
+
+</svg>'''
+    
+    with open('header.svg', 'w') as f:
+        f.write(svg_content)
+    print("SVG Generated successfully.")
+
+if __name__ == "__main__":
+    generate_svg()
