@@ -1,15 +1,9 @@
 
 <div align="center">
-  <img src="header.svg" width="100%" alt="Muhammad Dzikri Y2K Header" />
+  <img src="banner.svg" width="100%" alt="Dezikrie Animated Banner" />
 </div>
 
 <div align="center">
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z5eGk4eGk4Z3Z5eGk4eGk4Z3Z5eGk4eGk4Z3Z5eGk4eGk4Zy93ZWF/giphy.gif" width="30" /> 
-  ★ WELCOME TO MY UNIVERSE ★ 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z5eGk4eGk4Z3Z5eGk4eGk4Z3Z5eGk4eGk4Z3Z5eGk4eGk4Zy93ZWF/giphy.gif" width="30" />
-</h2>
 
 > ❝ **Science and technology can bridge reasoning and faith.** ❞
 
