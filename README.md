@@ -54,9 +54,9 @@
 </div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/muhammaddzikri17" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0047AB?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/dezikrie" target="_blank"><img src="https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=white"/></a>
-  <a href="mailto:muhammaddzikri277@gmail.com"><img src="https://img.shields.io/badge/Email-0047AB?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/muhammaddzikri17" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white&labelColor=111111"/></a>
+  <a href="https://instagram.com/dezikrie" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white&labelColor=111111"/></a>
+  <a href="mailto:muhammaddzikri277@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white&labelColor=111111"/></a>
 </p>
 
 <p align="center">
