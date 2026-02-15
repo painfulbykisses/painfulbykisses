@@ -12,7 +12,7 @@
 
 
 <div align="center">
-  <img src="header_tech.svg" width="100%" alt="Tech Stack" />
+  <img src="header_tech_logo.svg" width="100%" alt="Tech Stack Logo" />
 </div>
 
 <p align="center">
