@@ -28,7 +28,7 @@
 ---
 
 <div align="center">
-  <img src="header_stats.svg" width="100%" alt="Stats & Streaks" />
+  <img src="header_stats_logo.svg" width="100%" alt="Stats & Streaks Logo" />
 </div>
 
 <div align="center">
